@@ -1,0 +1,15 @@
+CSV Files
+   ↓
+Bulk Insert
+   ↓
+Bronze Tables
+   ↓
+Cleaning & Transformation
+   ↓
+Silver Tables
+   ↓
+Integration
+   ↓
+Gold Star Schema
+   ↓
+Analytics
