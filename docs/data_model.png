@@ -1,0 +1,5 @@
+              dim_customers
+                    │
+                    │
+                    ▼
+dim_products ──→ fact_sales
